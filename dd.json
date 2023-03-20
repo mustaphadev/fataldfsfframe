@@ -1,8 +1,6 @@
 {
   "settings":{
     "imagesCount":15,
-    "ImagesBaseUrl":"https://raw.githubusercontent.com/mustaphadev/fataldfsfframe/hfghgfh/imgs",
-    "PreviewsBaseUrl":"https://raw.githubusercontent.com/mustaphadev/fataldfsfframe/hfghgfh/previews",
     "AdmobAppId":"ca-app-pub-3940256099942544~3347511713",
     "AdmobBannerAdId":"ca-app-pub-3940256099942544/6300978111",
     "AdmobInterstitialAdId":"ca-app-pub-3940256099942544/1033173712"
